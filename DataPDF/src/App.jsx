@@ -1,6 +1,7 @@
 
 import './App.css'
-import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import TableHeading from './Components/TableHeading'
 import TableItems from './Components/TableItems'
 
